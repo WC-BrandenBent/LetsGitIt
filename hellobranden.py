@@ -12,5 +12,7 @@ from flask_jwt_extended import (
 def hello():
     print("Hello World")
 
-
+def hello_abraham():
+    print("Hello Abraham")
 hello()
+hello_abraham()
