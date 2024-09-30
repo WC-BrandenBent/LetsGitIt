@@ -12,5 +12,6 @@ from flask_jwt_extended import (
 def hello():
     print("Hello World")
 
-
+def hello2():
+    print("Hello again")
 hello()
