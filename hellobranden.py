@@ -14,3 +14,6 @@ def hello():
 
 
 hello()
+
+def new_feature():
+    print()
